@@ -1,0 +1,49 @@
+Definition of HTML
+HTML stands for HyperText Markup Language. It is the standard language used for creating and structuring content on the web. HTML defines the structure of a webpage by using various tags and elements to specify headings, paragraphs, links, images, tables, forms, and other types of content. It works in combination with CSS (Cascading Style Sheets) for styling the content and JavaScript for interactivity.
+
+HTML documents are composed of elements, which are typically enclosed in tags, such as:
+
+<html>: Defines the document as an HTML document.
+<head>: Contains metadata (e.g., title, character set, and links to stylesheets or scripts).
+<body>: Contains the visible content of the web page.
+<h1>, <p>, <a>, etc.: Tags for headings, paragraphs, and links, respectively.
+The structure of an HTML document is hierarchical, with a tree of elements that can contain nested child elements.
+
+History of HTML
+Origins (1989–1991):
+
+HTML was created by Tim Berners-Lee, a British computer scientist, in 1989 while working at CERN (European Organization for Nuclear Research).
+He proposed the idea of a hypertext system to facilitate the sharing of documents across a network (the World Wide Web, or WWW). The core idea was to link documents together using hyperlinks, enabling users to navigate between them easily.
+The first version of HTML was very basic and only included a handful of tags (e.g., <h1> for headings, <p> for paragraphs, <a> for links, and <img> for images).
+HTML 2.0 (1995):
+
+In 1995, the Internet Engineering Task Force (IETF) formally standardized HTML 2.0. This version expanded on the original language, adding more elements and attributes for structuring documents, including tables and forms.
+It was the first widely used version and helped establish the web's foundation.
+HTML 3.2 (1997):
+
+HTML 3.2 introduced more sophisticated layout capabilities, including support for tables, scripting (e.g., JavaScript), and other multimedia elements like applets and embedded objects.
+It was developed by the World Wide Web Consortium (W3C), which had taken over the responsibility for HTML development from IETF.
+HTML 4.01 (1999):
+
+HTML 4.01 was an important update that focused on separating content from presentation. It introduced the use of CSS for styling rather than inline formatting (e.g., <font> tags).
+HTML 4.01 also emphasized accessibility, semantic markup, and better support for multimedia elements like audio and video.
+This version became the dominant standard for web development for many years.
+XHTML (2000s):
+
+XHTML (Extensible HyperText Markup Language) was developed as a stricter, XML-based version of HTML. It required that all tags be properly closed and that the document structure be more rigorous.
+XHTML was intended to make HTML more compatible with XML-based technologies, but it was not widely adopted due to its complexity and compatibility issues with existing web browsers.
+HTML5 (2014–present):
+
+HTML5 was a major overhaul that began around 2008 and was finalized as a W3C recommendation in 2014. It introduced many new features and improvements, including:
+New semantic elements (e.g., <article>, <section>, <header>, <footer>) to better structure content.
+Native support for audio and video elements without relying on third-party plugins (like Flash).
+The introduction of the Canvas element for drawing graphics.
+APIs for local storage, geolocation, offline web apps, and more interactivity.
+HTML5 was designed to work seamlessly across modern browsers and devices, especially mobile, and became the default standard for web development.
+Evolution of HTML:
+1991: HTML's creation by Tim Berners-Lee, first version (very basic).
+1995: HTML 2.0 standard, formalized structure and additional features.
+1997: HTML 3.2, introduced tables, forms, and scripting support.
+1999: HTML 4.01, emphasis on accessibility and separation of content and presentation.
+2000s: XHTML, stricter syntax rules.
+2014: HTML5, significant upgrade with multimedia, semantic elements, and new web APIs.
